@@ -1,3 +1,3 @@
-a=int(input("enter your no."))
-b=int(input("enter your no."))
+a=int(input("enter your roll no."))
+b=int(input("enter your fav no."))
 print(a+b)
